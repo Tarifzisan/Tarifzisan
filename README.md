@@ -12,12 +12,11 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Student at **MIST**
-- 🔐 Associate Member, **MIST Cybersecurity Club (R&D)**
-- 🚩 Passionate about Capture The Flag (CTF)
-- 🛡️ Interested in Malware Analysis, Reverse Engineering & Web Security
-- 📝 Medium Blogger
-- 🌱 Currently learning Advanced Offensive Security
+I’m **Tarif Bin Belal**, a Computer Science student at the **Military Institute of Science and Technology (MIST)** with a strong passion for cybersecurity and continuous learning. As an **Associate Member of the MIST Cybersecurity Club (R&D)**, I actively explore both offensive and defensive security through hands-on practice, technical research, and Capture The Flag (CTF) competitions.
+
+My primary interests include **Web Security, Malware Analysis, Reverse Engineering, Digital Forensics, and Threat Hunting**. I enjoy understanding how systems work, identifying vulnerabilities, and developing practical security skills by solving real-world challenges. Alongside technical exploration, I share my knowledge by writing cybersecurity articles on **Medium**, believing that learning becomes more meaningful when it is shared with others.
+
+My long-term goal is to become a skilled cybersecurity professional who contributes to securing digital infrastructure through research, innovation, and continuous learning while giving back to the cybersecurity community.
 
 ---
 
@@ -25,40 +24,66 @@
 
 <p align="left">
 
-<a href="https://www.facebook.com/tarifbinbelal.zisan">
+<a href="https://www.facebook.com/tarifbinbelal.zisan" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/_zisan_10/">
+<a href="https://www.instagram.com/_zisan_10/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tarif-bin-belal-zisan-a32646329/">
+<a href="https://www.linkedin.com/in/tarif-bin-belal-zisan-a32646329/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@jisantarif55">
+<a href="https://medium.com/@jisantarif55" target="_blank">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://tryhackme.com/p/Abyss404">
+<a href="https://tryhackme.com/p/Abyss404" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
 </p>
 
+---
 
 # 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+</p>
 
 ---
 
+# 📊 GitHub Stats
 
+# 🚩 TryHackMe
 
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Abyss404.png" alt="TryHackMe Badge" />
+</p>
 
-> "Security is not a product, it's a process."
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tarifzisan&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Security is not a product, it's a process." – Bruce Schneier</i>
+</p>
