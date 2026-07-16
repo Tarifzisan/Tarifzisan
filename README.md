@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Tarif Bin Belal</h1>
 
 <h3 align="center">
 🛡️ Cybersecurity Enthusiast | 🚩 CTF Player | 💻 MIST Student
