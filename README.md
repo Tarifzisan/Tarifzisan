@@ -47,15 +47,6 @@
 
 </p>
 
----
-
-# 🚩 TryHackMe
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME.png"/>
-</p>
-
----
 
 # 💻 Tech Stack
 
