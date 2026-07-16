@@ -66,24 +66,6 @@ My long-term goal is to become a skilled cybersecurity professional who contribu
 
 ---
 
-# 📊 GitHub Stats
-
-# 🚩 TryHackMe
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Abyss404.png" alt="TryHackMe Badge" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tarifzisan&style=for-the-badge&color=blue"/>
-</p>
-
----
-
 <p align="center">
 <i>"Security is not a product, it's a process." – Bruce Schneier</i>
 </p>
